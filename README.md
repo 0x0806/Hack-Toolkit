@@ -1,4 +1,4 @@
-
+<div align="center">
 #  Hack TOOLKIT 
 
 <div align="center">
@@ -344,31 +344,8 @@ copies or substantial portions of the Software.
 
 </div>
 
----
 
-## 🔄 Version History
 
-### v4.0 (Current)
-- Modern UI with improved ASCII art
-- Enhanced error handling and user feedback
-- Updated tool collection with latest versions
-- Improved cross-platform compatibility
-- Added comprehensive documentation
-
-### v3.0
-- Added new security tools
-- Improved installation process
-- Enhanced user interface
-
-### v2.0
-- Initial multi-tool integration
-- Basic menu system implementation
-
-### v1.0
-- Initial release
-- Basic tool collection
-
----
 
 <div align="center">
 
