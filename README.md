@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Termux-orange.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-lightgrey.svg)
 
-**A comprehensive cybersecurity toolkit for ethical hackers and security professionals**
+**A comprehensive  toolkit **
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Tools](#-tools-overview) • [Disclaimer](#-disclaimer) • [Contributing](#-contributing)
 
