@@ -1,9 +1,9 @@
 
-# 🛡️ Hack TOOLKIT 
+#  Hack TOOLKIT 
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-4.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Termux-orange.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-lightgrey.svg)
