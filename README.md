@@ -35,7 +35,7 @@
 
 ## 🔍 Overview
 
-**DEV TOOLKIT** is a comprehensive cybersecurity suite designed for ethical hackers, penetration testers, and security professionals. This toolkit consolidates 17 powerful security tools into a single, easy-to-use interface with a modern terminal UI.
+**Hack TOOLKIT** is a comprehensive cybersecurity suite designed for ethical hackers, penetration testers, and security professionals. This toolkit consolidates 17 powerful security tools into a single, easy-to-use interface with a modern terminal UI.
 
 ### 🎯 Purpose
 
