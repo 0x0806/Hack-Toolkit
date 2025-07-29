@@ -60,7 +60,7 @@ apt upgrade -y
 clear
 echo -e "\033[47;3;35m Update complete...\033[0m"
 sleep 3
-bash alhack.sh
+bash Hack-Toolkit.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
