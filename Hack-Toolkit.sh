@@ -136,7 +136,7 @@ echo -e "\033[47;3;35m REMOVING DOWNLOADED PROGRAMS...\033[0m"
 sleep 3 
 rm -rf Tools
 
-bash alhack.sh
+bash Hack-Toolkit.sh
 
 elif [[ $islem == 8 || $islem == 08 ]]; then
 clear
