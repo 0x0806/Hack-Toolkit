@@ -117,8 +117,8 @@ pkg update && pkg upgrade
 pkg install git
 
 # Clone and run
-git clone https://github.com/0x0806/dev-toolkit.git
-cd dev-toolkit
+git clone https://github.com/0x0806/Hack-Toolkit.git
+cd Hack-Toolkit
 chmod +x Hack-Toolkit.sh
 ./Hack-Toolkit.sh
 ```
