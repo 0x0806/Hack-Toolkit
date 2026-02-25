@@ -96,10 +96,10 @@ The script will automatically install these dependencies:
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/0x0806/dev-toolkit.git
+git clone https://github.com/0x0806/Hack-toolkit.git
 
 # Navigate to directory
-cd dev-toolkit
+cd Hack-toolkit
 
 # Make executable
 chmod +x Hack-Toolkit.sh
